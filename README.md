@@ -19,8 +19,8 @@ User yang melakukan search dengan inputan tertentu. Program akan mencocokan inpu
 Kemudian ketika Program menemukan kesesuaian pada Dvd makan akan menampilkan Title, Genre. dan ketika program menemukan kesesuaian antara inputan dengan data pada buku maka akan menampilkan title dan DDS Number.
 
 Credit Author :
-Annisa Nur Rahmadhani
-Damaik Uzuka
-Devicjo Kurniawan
-Enggar Lanang N A G
-Ferdian Imawan
+- Annisa Nur Rahmadhani
+- Damaik Uzuka
+- Devicjo Kurniawan
+- Enggar Lanang N A G
+- Ferdian Imawan
